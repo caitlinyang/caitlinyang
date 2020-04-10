@@ -1,0 +1,23 @@
+#footer {
+    /* position: fixed; */
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    /* background-color: whitesmoke; */
+    padding: 10px 0px 30px 0px;
+}
+
+#c { 
+    color: gray; 
+    font-family: "Raleway"; 
+    font-size: 13px; 
+
+}
+
+a { 
+    color: black; 
+}
+
+.icon { 
+    opacity: 0.70; 
+}
